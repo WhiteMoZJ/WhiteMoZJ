@@ -29,57 +29,12 @@
 <table align="center">
   <tr>
     <th align="center">Most Language</th>
-    <th align="center">Recent Working</th>
   </tr>
   <tr>
     <td>
       <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteMoZJ&layout=compact" /> </div>
     </td>
-    <td>
-      <div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteMoZJ&repo=Stereo-Pose-Detection" /> </div>
-    </td>
   </tr>
-  
-  <tr>
-    <th align="center">GitHub Stats</th>
-    <th align="center">Streaks</th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WhiteMoZJ&show_icons=true&theme=gruvbox" /> </div>
-    </td>
-    <td>
-      <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhiteMoZJ" /> </div>
-    </td>
-  </tr>
-  
 </table>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WhiteMoZJ&layout=compact" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteMoZJ&theme=github-compact" /> </div>
-
-
-  
-  ```mermaid
-  mindmap
-    root((JunChau))
-      Program
-        CV
-        AI
-        Robotic
-        Electronic
-      Photograph
-      Travel
-        Guangzhou
-        Shenzhen
-        Changsha
-        Beijing
-        Shanghai
-        London
-        Oxford
-      Movies
-        Science Fiction
-        History
-        
-  ```
 
