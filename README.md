@@ -24,17 +24,4 @@
 <p>&emsp;&emsp;One year of RoboMaster.</p>
 <p></p>
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%20std::cout%20<<%20%22Hello%20World!%22&center=true&size=27"> </a> </h1>
-
-<table align="center">
-  <tr>
-    <th align="center">Most Language</th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteMoZJ&layout=compact" /> </div>
-    </td>
-  </tr>
-</table>
-
 
